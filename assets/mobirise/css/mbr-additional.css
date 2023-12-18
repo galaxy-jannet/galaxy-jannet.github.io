@@ -2698,6 +2698,11 @@ a {
 }
 .cid-tYNwv9Jfzy {
   display: flex;
+  background-image: url("../../../assets/images/iridescent.webp");
+}
+.cid-tYNwv9Jfzy .mbr-overlay {
+  background-color: #393193;
+  opacity: 0.7;
 }
 @media (min-width: 768px) {
   .cid-tYNwv9Jfzy {
