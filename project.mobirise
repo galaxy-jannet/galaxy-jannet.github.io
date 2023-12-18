@@ -75,7 +75,7 @@
       "textButton": "I accept the cookies!",
       "rejectText": "REJECT"
     },
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false
   },
   "pages": {
