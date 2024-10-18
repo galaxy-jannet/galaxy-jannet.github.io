@@ -755,6 +755,29 @@ body {
 a {
   transition: color 0.6s;
 }
+@media (max-width: 1400px) {
+  .container {
+    max-width: 100%;
+  }
+}
+@media (max-width: 1400px) and (min-width: 768px) {
+  .container {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+@media (max-width: 1400px) and (min-width: 768px) {
+  .container-fluid {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+@media (max-width: 767px) {
+  .container-fluid {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
 .cid-tYNwq9WD6x {
   z-index: 1000;
   width: 100%;
@@ -2928,7 +2951,7 @@ a {
   max-width: 800px;
 }
 .cid-tYNwEhtfs5 .card1 {
-  background-image: url("../../../assets/images/romwe-1-1080x1080.webp");
+  background-image: url("../../../assets/images/lancome-2.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -2936,7 +2959,7 @@ a {
   background: #f21f78;
 }
 .cid-tYNwEhtfs5 .card2 {
-  background-image: url("../../../assets/images/untitled-design-2-940x788.webp");
+  background-image: url("../../../assets/images/romwe-2-1080x1080.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -2944,7 +2967,7 @@ a {
   background: #36a1e3;
 }
 .cid-tYNwEhtfs5 .card3 {
-  background-image: url("../../../assets/images/capeclique-300x300.webp");
+  background-image: url("../../../assets/images/prada-1448x1448.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -2952,7 +2975,7 @@ a {
   background: #393193;
 }
 .cid-tYNwEhtfs5 .card4 {
-  background-image: url("../../../assets/images/profiart-1-874x759.webp");
+  background-image: url("../../../assets/images/profiart-2-874x759.webp");
   background-size: cover;
   background-position: center center;
 }
